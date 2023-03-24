@@ -3,7 +3,7 @@
 
 ## **íNDICE**
 
-* [1. Intro](https://github.com/ArelyAndrea/ClonacionGoogle/edit/main/README.md#1-intro)
+* [1. Intro](https://github.com/ArelyAndrea/ClonacionGoogle#1-intro)
 * [2. Que Construí](https://github.com/ArelyAndrea/ClonacionGoogle/edit/main/README.md#2-que-constru%C3%AD)
 * [3. Objetivo del proyecto](https://github.com/ArelyAndrea/ClonacionGoogle/edit/main/README.md#3-objetivo-del-proyecto)
 * [4. Link a Demo](https://github.com/ArelyAndrea/ClonacionGoogle/edit/main/README.md#4-linkk-a-demo)
