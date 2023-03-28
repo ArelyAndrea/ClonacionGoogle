@@ -6,7 +6,7 @@
 * [1. Intro](https://github.com/ArelyAndrea/ClonacionGoogle#1-intro)
 * [2. Que Construí](https://github.com/ArelyAndrea/ClonacionGoogle#2-que-constru%C3%AD)
 * [3. Objetivo del proyecto](https://github.com/ArelyAndrea/ClonacionGoogle/blob/main/README.md#3-objetivo-del-proyecto)
-* [4. Link a Demo](https://github.com/ArelyAndrea/ClonacionGoogle/blob/main/README.md#4-linkk-a-demo)
+* [4. Link a Demo](https://github.com/ArelyAndrea/ClonacionGoogle/blob/main/README.md#4-link-a-demo)
 
 ****
 
