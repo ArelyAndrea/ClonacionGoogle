@@ -23,4 +23,4 @@ En este proyecto me enfoqué en construir la clonacion de la interfaz de Google.
 Aprender a utilizar las etiquetas estandar de HTML 5 y CSS3.
 
 ## 4. Link a Demo
-Aqui puedes visualizar mi proyecto terminado: [Clonacion de Gooogle](https://effulgent-tulumba-0716d0.netlify.app/)
+Aqui puedes visualizar mi proyecto terminado: [Clonacion de Gooogle](#)
